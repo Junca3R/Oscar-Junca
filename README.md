@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+%C3%93scar+Junca+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Oscar+Junca+%F0%9F%91%8B;Backend+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Always+learning%2C+always+building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@ Soy un **desarrollador backend** apasionado por construir soluciones robustas, e
 ### Lenguajes y Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Phyton"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 </p>
@@ -87,7 +87,7 @@ public class OscarJunca {
 
     private final String rol = "Backend Developer";
     private final List<String> tecnologias = List.of(
-        "Java", "Spring Boot", "Microservices",
+        "Java", "Python", "Spring Boot", "Microservices",
         "REST API", "Docker", "Git", "Postman"
     );
     private final String enfoque = "Código limpio, escalable y bien documentado";
