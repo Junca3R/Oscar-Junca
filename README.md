@@ -1,4 +1,4 @@
-<h1 align="center">hola 👋,soy Oscar Junca</h1>
+<h1 align="center">Hola 👋,soy Oscar Junca</h1>
 <h3 align="center">Explorador de nuevas tecnologías</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juncar3&label=Profile%20views&color=0e75b6&style=flat" alt="juncar3" /> </p>
