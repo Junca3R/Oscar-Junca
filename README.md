@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oscar-junca" target="_blank">
+  <a href="https://www.linkedin.com/in/oscar-junca-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -31,6 +31,7 @@ Soy un **desarrollador backend** apasionado por construir soluciones robustas, e
 ### Lenguajes y Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Phyton"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
 </p>
