@@ -53,17 +53,6 @@ Soy un **desarrollador backend** apasionado por construir soluciones robustas, e
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarJunca&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarJunca&theme=tokyonight&hide_border=true&locale=es" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarJunca&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="40%" alt="Top Languages"/>
-</p>
 
 ---
 
